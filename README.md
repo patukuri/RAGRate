@@ -10,4 +10,4 @@ The evaluation metrics that RAGRate measures are
 2. Context Relevance
 3. Fiathfulness
 
-Detailed report if attached as a additional file. Please check summary file for more details.
+Detailed report is attached as a additional file. Please check **summary** file for more details.
